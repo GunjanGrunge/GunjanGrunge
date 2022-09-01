@@ -2,10 +2,10 @@
 # <h1 align='center'>👋 Hi I am, Gunjan <h1>
  <p align='center'>
  <a href="https://www.linkedin.com/in/gunjansarkar/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>&nbsp;&nbsp;
  <a href=https://www.instagram.com/gunjangrunge/>  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <p>
+ <p>
 
 <p align='center'> :gear: I currently work as an MLops, involved in Machine Learning and Ai Projects.<p>
  <p align='center'>:nerd_face: Learning MERN STACK.<p>
