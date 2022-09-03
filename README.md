@@ -7,7 +7,7 @@
  <a href=https://www.instagram.com/gunjangrunge/>  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
  <p>
 
-<p align='center'> :gear: I currently work as an MLops, involved in Machine Learning and Ai Projects.<p>
+<p align='center'> :gear: A full-stack(Data scientist &  Web Developer)<p>
  <p align='center'>:nerd_face: Learning MERN STACK.<p>
  
  <h3 align="center">Languages and Tools::innocent:</h3>
