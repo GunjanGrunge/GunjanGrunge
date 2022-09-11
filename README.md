@@ -24,7 +24,7 @@
 
 
 <h2 align='left' > Work Experience </h2>
- <img alt="GENPACT" src="https://img.shields.io/badge/GENPACT-1e345c?style=or-the-badge &logo=Genpact&logoColor=4aabca&logoWidth=20&labelColor=4aabca" />  <img alt="American Express" src="https://img.shields.io/badge/American Express-2E77BC?style=for-the-badge&logo=american-express&logoColor=white" />  <img alt="Accenture" src="https://img.shields.io/badge/Accenture-A100FF?style=for-the-badge&logo=accenture&logoColor=white" />   <img alt="Amazon" src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" /> <img alt="General Electric" src="https://img.shields.io/badge/General Electric-0870D8?style=for-the-badge&logo=general-electric&logoColor=white" />
+ <img alt="GENPACT" src="https://img.shields.io/badge/GENPACT-1e345c?style=or-the-badge &logo=Genpact&logoColor=4aabca&logoWidth=20&labelColor=4aabca" />  <img alt="American Express" src="https://img.shields.io/badge/American Express-2E77BC?style=for-the-badge&logo=american-express&logoColor=white" />  <img alt="Accenture" src="https://img.shields.io/badge/Accenture-A100FF?style=for-the-badge&logo=accenture&logoColor=white" />   <img alt="Amazon" src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" /> 
  
  
  
