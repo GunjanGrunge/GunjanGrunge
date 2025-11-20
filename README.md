@@ -1,60 +1,40 @@
+# <h1 align='center'>👋 Hi I am, Gunjan </h1> 
+<img src="https://komarev.com/ghpvc/?username=gunjangrunge&label=Profile%20views&color=0e75b6&style=flat" alt="gunjan"/> 
+ <p align='center'>
+ <a href="https://twitter.com/kabir_shelby" target="blank">
+  <img src="https://img.shields.io/twitter/follow/kabir_shelby?logo=twitter&style=for-the-badge"  alt="gunjan" /></a> &nbsp;&nbsp; 
+   <a href="https://www.linkedin.com/in/gunjansarkar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>&nbsp;&nbsp;
+ <a href=https://www.instagram.com/gunjangrunge/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ </p>
 
+
+
+ <p align='center'>:nerd_face: Still Learning with Machines.<p>
+ 
+## 🛠️ Tech Stack
 <p align="center">
-  <!-- embedded neon SVG banner (data URI) — no external file, no 404 -->
-  <img alt="neon banner" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='220'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%237afcff'/><stop offset='1' stop-color='%23a66bff'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='6' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs><rect width='100%' height='100%' fill='%230b0b0f'/><text x='50%' y='56%' font-family='Segoe UI, Roboto, Arial' font-size='56' fill='url(%23g)' text-anchor='middle' filter='url(%23glow)'>✨ Gunjan — Maker • Learner • Builder</text></svg>" width="820"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+## 📊 Language Statistics
 <p align="center">
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=gunjangrunge&label=Profile%20Views&color=7afcff&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunjanGrunge&layout=donut&theme=radical&hide_border=true&langs_count=8" width="40%" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/kabir_shelby" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/gunjansarkar/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://www.instagram.com/gunjangrunge/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=GunjanGrunge&count_private=true&theme=radical&show_icons=true" />
+<br>
+<br>
 
----
-
-## ✨ One-liner
-I build thoughtful web experiences and experiment with machine learning — small experiments, big learnings.
-
----
-
-## 🔮 Featured Projects
-<!-- I included two real repo links I found on your profile; swap or add more as you like -->
-- **[awsbackupUIReact](https://github.com/GunjanGrunge/awsbackupUIReact)** — React UI for AWS backup flows (demo / screenshots in repo recommended).  
-  _Tech:_ React • AWS SDK • UI
-- **[asset-tracker-pro](https://github.com/GunjanGrunge/asset-tracker-pro)** — asset tracking prototype (API + UI).  
-  _Tech:_ TypeScript • Node • Express • MongoDB
-
-<!-- Replace the next three with your top picks or add these if you have them -->
-- **[BeatHub]** — lightweight music-beats web app — *(replace with repo link and one-liner)*  
-- **[Neon UI Kit]** — micro UI library with glass/neon components — *(replace with repo link)*
-
----
-
-## 🧊 Tech (neon row)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,python" alt="tech icons" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GunjanGrunge&count_private=true&show_icons=true&theme=radical" width="48%" alt="github stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunjanGrunge&layout=compact&theme=radical" width="40%" alt="top languages" />
-</p>
-
----
-
-## 📬 Contact
-<p align="center">
-  <a href="mailto:your.email@example.com">✉️ your.email@example.com</a> • <a href="https://www.linkedin.com/in/gunjansarkar/">LinkedIn</a>
-</p>
-
-<p align="center">Made with ❤️ — neon + glass vibes</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gunjangrunge&theme=dark)
+## My Contribution Graph 
+![](https://activity-graph.herokuapp.com/graph?username=gunjangrunge&theme=react-dark)
