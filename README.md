@@ -10,7 +10,7 @@
 
 
 
- <p align='center'>:nerd_face: Still Learning with Machines.<p>
+ <p align='center'>:nerd_face: Still Learning Machine.<p>
  
 ## 🛠️ Tech Stack
 <p align="center">
