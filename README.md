@@ -30,7 +30,7 @@
 
 ---
 
-## ⚡ About Me
+## ◈ About Me
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ▸ Tech Stack
 
 <div align="center">
 
@@ -99,7 +99,7 @@
 
 ---
 
-## 📄 Research & Publications
+## ⌬ Research & Publications
 
 <div align="center">
 
@@ -237,7 +237,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## ◎ GitHub Stats
 
 <div align="center">
 
