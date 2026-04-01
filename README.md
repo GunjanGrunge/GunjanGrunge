@@ -34,16 +34,16 @@
 
 <div align="center">
 
-
+<a href="https://gunjangrunge.github.io/Portfolio-Website/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-gunjangrunge.github.io-58a6ff?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" />
+</a>
 &nbsp;
 <img src="https://img.shields.io/badge/Full--Stack-Developer-1f6feb?style=flat-square&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/AI-Researcher-d97757?style=flat-square&logo=anthropic&labelColor=0d1117&logoColor=d97757" />
 &nbsp;
 <img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-555?style=flat-square&labelColor=0d1117" />
-<a href="https://gunjangrunge.github.io/Portfolio-Website/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-gunjangrunge.github.io-58a6ff?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" />
-</a>
+
 
 </div>
 
