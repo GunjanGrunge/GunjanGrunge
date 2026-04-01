@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Founder-RRQ%20Content%20Factory-58a6ff?style=flat-square&labelColor=0d1117" />
+
 &nbsp;
 <img src="https://img.shields.io/badge/Full--Stack-Developer-1f6feb?style=flat-square&labelColor=0d1117" />
 &nbsp;
