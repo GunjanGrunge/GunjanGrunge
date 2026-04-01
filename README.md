@@ -34,8 +34,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Founder-RRQ%20Content%20Factory-58a6ff?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
 <img src="https://img.shields.io/badge/Full--Stack-Developer-1f6feb?style=for-the-badge&labelColor=0d1117&logo=codepen&logoColor=1f6feb" />
 &nbsp;
 <img src="https://img.shields.io/badge/AI-Researcher-d97757?style=for-the-badge&logo=anthropic&labelColor=0d1117&logoColor=d97757" />
