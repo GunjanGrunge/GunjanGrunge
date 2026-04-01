@@ -82,14 +82,31 @@ motto: "Still learning with machines. 🤓"
 
 ---
 
-## 🚀 What I'm Building
+## 📄 Research & Publications
+
+> Preprints and software on multi-agent AI systems architecture — all published on Zenodo.
+
+### 🔬 Preprints
 
 <div align="center">
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| 🤖 **RRQ Content Factory** | AI-powered YouTube automation · 13-step multi-agent pipeline using Claude via AWS Bedrock | 🟡 Pre-Launch |
-| 🎵 **K Beats Official** | Cinematic & acoustic Bollywood remakes on YouTube | 🟢 Active |
+| Paper | Description | DOI |
+|-------|-------------|-----|
+| 🧩 **The Synthesis Layer** | Reducing Command Authority Bottleneck in Production Multi-Agent AI Systems | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19373822.svg)](https://doi.org/10.5281/zenodo.19373822) |
+| 🛡️ **MURPHY** | Conversational Intent Surveillance with Arc-Based Trajectory Detection for Safe Multi-Agent AI Systems | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19159244.svg)](https://doi.org/10.5281/zenodo.19159244) |
+| 🧠 **SAGE** | Self-Adapting Governance Engine for Multi-Agent AI Systems | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19116770.svg)](https://doi.org/10.5281/zenodo.19116770) |
+| 📐 **ILP** | Instruction Layer Protocol for Multi-Agent AI Systems | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19101583.svg)](https://doi.org/10.5281/zenodo.19101583) |
+
+</div>
+
+### 💾 Software Releases
+
+<div align="center">
+
+| Project | Version | DOI |
+|---------|---------|-----|
+| 🤖 **RRQ** — Autonomous YouTube Production System | v0.7 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19101568.svg)](https://doi.org/10.5281/zenodo.19101568) |
+| 📦 **Asset Tracker Pro** | v1.0.0 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19101563.svg)](https://doi.org/10.5281/zenodo.19101563) |
 
 </div>
 
