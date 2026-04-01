@@ -34,22 +34,23 @@
 
 <div align="center">
 
-<a href="https://gunjangrunge.github.io/Portfolio-Website/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-gunjangrunge.github.io-58a6ff?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" />
-</a>
+<img src="https://img.shields.io/badge/Founder-RRQ%20Content%20Factory-58a6ff?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Full--Stack-Developer-1f6feb?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Full--Stack-Developer-1f6feb?style=for-the-badge&labelColor=0d1117&logo=codepen&logoColor=1f6feb" />
 &nbsp;
-<img src="https://img.shields.io/badge/AI-Researcher-d97757?style=flat-square&logo=anthropic&labelColor=0d1117&logoColor=d97757" />
+<img src="https://img.shields.io/badge/AI-Researcher-d97757?style=for-the-badge&logo=anthropic&labelColor=0d1117&logoColor=d97757" />
 &nbsp;
-<img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-555?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-555?style=for-the-badge&labelColor=0d1117" />
 
+<br/><br/>
+
+<a href="https://gunjangrunge.github.io/Portfolio-Website/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%20gunjangrunge.github.io-0d1117?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=238636" />
+</a>
 
 </div>
 
 <br/>
-
-<div align="center">
 
 | Domain | Involvement |
 |--------|------------|
