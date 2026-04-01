@@ -1,30 +1,28 @@
 <div align="center">
 
-<!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gunjan%20Sarkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Builder%20%E2%80%A2%20Researcher%20%E2%80%A2%20Still%20Learning%20with%20Machines&descAlignY=54&descSize=16" />
 
-<!-- Profile views + Social badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=gunjangrunge&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=gunjangrunge&label=Profile+Views&color=0e75b6&style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/GunjanGrunge?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/GunjanGrunge?label=Followers&style=flat-square&color=0e75b6" />
 </p>
 
 <p>
   <a href="https://twitter.com/kabir_shelby" target="_blank">
-    <img src="https://img.shields.io/badge/@kabir__shelby-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/@kabir__shelby-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/gunjansarkar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/gunjangrunge/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://orcid.org/0009-0009-0243-4527" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-0009--0009--0243--4527-%23A6CE39.svg?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+    <img src="https://img.shields.io/badge/ORCID-0009--0009--0243--4527-%23A6CE39.svg?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
 </p>
 
@@ -34,42 +32,30 @@
 
 ## ⚡ About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**`◈` Identity**
-
-<img src="https://img.shields.io/badge/Gunjan%20Sarkar-Founder%20%40%20RRQ%20Content%20Factory-58a6ff?style=flat-square&labelColor=0d1117" /><br/><br/>
-<img src="https://img.shields.io/badge/Also-Full--Stack%20Dev%20%26%20AI%20Researcher-1f6feb?style=flat-square&labelColor=161b22" /><br/><br/>
-<img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-555?style=flat-square&labelColor=161b22" />
-
-</td>
-<td width="50%" valign="top">
-
-**`◈` Right Now**
-
-<img src="https://img.shields.io/badge/Building-RRQ%20Content%20Factory%20%E2%86%92%20Pre--Launch-238636?style=flat-square&labelColor=161b22" /><br/><br/>
-<img src="https://img.shields.io/badge/Researching-Multi--Agent%20AI%20Systems-d29922?style=flat-square&labelColor=161b22" /><br/><br/>
-<img src="https://img.shields.io/badge/Applying-Anthropic%20Startup%20Program-d97757?style=flat-square&logo=anthropic&labelColor=161b22&logoColor=d97757" /><br/><br/>
-<img src="https://img.shields.io/badge/Mode-Always%20Learning%20%F0%9F%A4%93-6e40c9?style=flat-square&labelColor=161b22" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**`◈` What I'm Building**
-
-<img src="https://img.shields.io/badge/Claude%20%28AWS%20Bedrock%29-Orchestrates%2013--step%20Agentic%20Pipeline-d97757?style=flat-square&logo=anthropic&labelColor=0d1117&logoColor=d97757" />
+<img src="https://img.shields.io/badge/Founder-RRQ%20Content%20Factory-58a6ff?style=flat-square&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/EC2%20%2B%20Lambda%20%2B%20DynamoDB-Core%20Infrastructure-FF9900?style=flat-square&logo=amazonaws&labelColor=0d1117&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Full--Stack-Developer-1f6feb?style=flat-square&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Goal-YouTube%20Automation%20at%20Scale-ff4444?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/AI-Researcher-d97757?style=flat-square&logo=anthropic&labelColor=0d1117&logoColor=d97757" />
+&nbsp;
+<img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-555?style=flat-square&labelColor=0d1117" />
 
-</td>
-</tr>
-</table>
+</div>
+
+<br/>
+
+<div align="center">
+
+| Domain | Involvement |
+|--------|------------|
+| 🤖 **Multi-Agent AI Systems** | Architecture design, safety layers, agentic pipelines |
+| ☁️ **Cloud Infrastructure** | AWS — EC2, Lambda, DynamoDB, Bedrock |
+| 🌐 **Web Development** | Full-stack — React, Node.js, Express, MongoDB |
+| 📝 **AI Research** | Published preprints on multi-agent system design patterns |
+
+</div>
 
 > *"Still learning with machines."*
 
@@ -108,31 +94,139 @@
 
 ## 📄 Research & Publications
 
-> Preprints and software on multi-agent AI systems architecture — all published on Zenodo.
-
-### 🔬 Preprints
-
 <div align="center">
 
-| Paper | Description | DOI |
-|-------|-------------|-----|
-| 🧩 **The Synthesis Layer** | Reducing Command Authority Bottleneck in Production Multi-Agent AI Systems | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19373822.svg)](https://doi.org/10.5281/zenodo.19373822) |
-| 🛡️ **MURPHY** | Conversational Intent Surveillance with Arc-Based Trajectory Detection for Safe Multi-Agent AI Systems | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19159244.svg)](https://doi.org/10.5281/zenodo.19159244) |
-| 🧠 **SAGE** | Self-Adapting Governance Engine for Multi-Agent AI Systems | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19116770.svg)](https://doi.org/10.5281/zenodo.19116770) |
-| 📐 **ILP** | Instruction Layer Protocol for Multi-Agent AI Systems | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19101583.svg)](https://doi.org/10.5281/zenodo.19101583) |
+*Multi-agent AI systems architecture · Published on Zenodo*
 
 </div>
 
-### 💾 Software Releases
+<br/>
 
-<div align="center">
+### &nbsp;&nbsp;`PREPRINTS`
 
-| Project | Version | DOI |
-|---------|---------|-----|
-| 🤖 **RRQ** — Autonomous YouTube Production System | v0.7 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19101568.svg)](https://doi.org/10.5281/zenodo.19101568) |
-| 📦 **Asset Tracker Pro** | v1.0.0 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19101563.svg)](https://doi.org/10.5281/zenodo.19101563) |
+<table>
+<tr>
+<td width="4%" align="center">
+<img src="https://img.shields.io/badge/-NEW-58a6ff?style=flat-square&labelColor=0d1117" />
+</td>
+<td>
+<strong>The Synthesis Layer</strong> — Reducing Command Authority Bottleneck in Production Multi-Agent AI Systems<br/>
+<sub>
+<a href="https://doi.org/10.5281/zenodo.19373822">
+<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19373822-fcba03?style=flat-square&logo=doi&labelColor=161b22&logoColor=fcba03" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Zenodo-Preprint-1f6feb?style=flat-square&logo=zenodo&labelColor=161b22&logoColor=a0c4ff" />
+&nbsp;
+<img src="https://img.shields.io/badge/Apr%202026-0d1117?style=flat-square&labelColor=161b22" />
+</sub>
+</td>
+</tr>
 
-</div>
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="4%" align="center">
+<img src="https://img.shields.io/badge/-🛡-d29922?style=flat-square&labelColor=0d1117" />
+</td>
+<td>
+<strong>MURPHY</strong> — Conversational Intent Surveillance with Arc-Based Trajectory Detection for Safe Multi-Agent AI Systems<br/>
+<sub>
+<a href="https://doi.org/10.5281/zenodo.19159244">
+<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19159244-fcba03?style=flat-square&logo=doi&labelColor=161b22&logoColor=fcba03" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Zenodo-Preprint-1f6feb?style=flat-square&logo=zenodo&labelColor=161b22&logoColor=a0c4ff" />
+&nbsp;
+<img src="https://img.shields.io/badge/Mar%202026-0d1117?style=flat-square&labelColor=161b22" />
+</sub>
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="4%" align="center">
+<img src="https://img.shields.io/badge/-🧠-238636?style=flat-square&labelColor=0d1117" />
+</td>
+<td>
+<strong>SAGE</strong> — Self-Adapting Governance Engine for Multi-Agent AI Systems<br/>
+<sub>
+<a href="https://doi.org/10.5281/zenodo.19116770">
+<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19116770-fcba03?style=flat-square&logo=doi&labelColor=161b22&logoColor=fcba03" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Zenodo-Preprint-1f6feb?style=flat-square&logo=zenodo&labelColor=161b22&logoColor=a0c4ff" />
+</sub>
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="4%" align="center">
+<img src="https://img.shields.io/badge/-📐-6e40c9?style=flat-square&labelColor=0d1117" />
+</td>
+<td>
+<strong>ILP</strong> — Instruction Layer Protocol for Multi-Agent AI Systems<br/>
+<sub>
+<a href="https://doi.org/10.5281/zenodo.19101583">
+<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19101583-fcba03?style=flat-square&logo=doi&labelColor=161b22&logoColor=fcba03" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Zenodo-Preprint-1f6feb?style=flat-square&logo=zenodo&labelColor=161b22&logoColor=a0c4ff" />
+</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### &nbsp;&nbsp;`SOFTWARE`
+
+<table>
+<tr>
+<td width="4%" align="center">
+<img src="https://img.shields.io/badge/-⚙-FF9900?style=flat-square&labelColor=0d1117" />
+</td>
+<td>
+<strong>RRQ</strong> — Autonomous YouTube Production System &nbsp; <code>v0.7</code><br/>
+<sub>
+<a href="https://doi.org/10.5281/zenodo.19101568">
+<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19101568-fcba03?style=flat-square&logo=doi&labelColor=161b22&logoColor=fcba03" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Zenodo-Software-555?style=flat-square&logo=zenodo&labelColor=161b22" />
+&nbsp;
+<a href="https://github.com/GunjanGrunge/rrq">
+<img src="https://img.shields.io/badge/GitHub-GunjanGrunge%2Frrq-333?style=flat-square&logo=github&labelColor=161b22" />
+</a>
+</sub>
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="4%" align="center">
+<img src="https://img.shields.io/badge/-📦-3fb950?style=flat-square&labelColor=0d1117" />
+</td>
+<td>
+<strong>Asset Tracker Pro</strong> &nbsp; <code>v1.0.0</code><br/>
+<sub>
+<a href="https://doi.org/10.5281/zenodo.19101563">
+<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19101563-fcba03?style=flat-square&logo=doi&labelColor=161b22&logoColor=fcba03" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Zenodo-Software-555?style=flat-square&logo=zenodo&labelColor=161b22" />
+&nbsp;
+<a href="https://github.com/GunjanGrunge/asset-tracker-pro">
+<img src="https://img.shields.io/badge/GitHub-GunjanGrunge%2Fasset--tracker--pro-333?style=flat-square&logo=github&labelColor=161b22" />
+</a>
+</sub>
+</td>
+</tr>
+</table>
 
 ---
 
