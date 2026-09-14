@@ -87,40 +87,60 @@
   </tr>
 </table>
 
-## Building with
+## Skills & tools
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-BE9455?style=for-the-badge&logo=openai&logoColor=0D0F12" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Python-0D0F12?style=for-the-badge&logo=python&logoColor=BE9455" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-0D0F12?style=for-the-badge&logo=javascript&logoColor=BE9455" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-0D0F12?style=for-the-badge&logo=react&logoColor=BE9455" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0D0F12?style=for-the-badge&logo=nodedotjs&logoColor=BE9455" alt="Node.js" />
-  <img src="https://img.shields.io/badge/AWS-0D0F12?style=for-the-badge&logo=amazonaws&logoColor=BE9455" alt="AWS" />
-</div>
-
-<br />
-
-## Open source
-
-<table>
+<table width="100%" cellpadding="16" bgcolor="#20262D">
   <tr>
-    <td><strong>RRQ</strong><br /><sub>Autonomous YouTube Production System</sub></td>
-    <td align="right"><a href="https://github.com/GunjanGrunge/rrq">Repository</a> · <a href="https://doi.org/10.5281/zenodo.19101568">Zenodo</a></td>
+    <td width="25%" valign="middle"><strong><font color="#F8F7F4">AI &amp; agent systems</font></strong><br /><sub><font color="#D8D6D2">Design, orchestration, safety</font></sub></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/AI%20Agents-BE9455?style=for-the-badge&logo=openai&logoColor=0D0F12" alt="AI Agents" />
+      <img src="https://img.shields.io/badge/Claude%20Code-0D0F12?style=for-the-badge&logo=anthropic&logoColor=BE9455" alt="Claude Code" />
+      <img src="https://img.shields.io/badge/LangChain-0D0F12?style=for-the-badge&logo=langchain&logoColor=BE9455" alt="LangChain" />
+      <img src="https://img.shields.io/badge/LangGraph-0D0F12?style=for-the-badge&logo=langchain&logoColor=BE9455" alt="LangGraph" />
+    </td>
   </tr>
+  <tr><td colspan="2" height="2" bgcolor="#373A3F"></td></tr>
   <tr>
-    <td><strong>Asset Tracker Pro</strong><br /><sub>Asset tracking and management</sub></td>
-    <td align="right"><a href="https://github.com/GunjanGrunge/asset-tracker-pro">Repository</a> · <a href="https://doi.org/10.5281/zenodo.19101563">Zenodo</a></td>
+    <td width="25%" valign="middle"><strong><font color="#F8F7F4">Software engineering</font></strong><br /><sub><font color="#D8D6D2">Full-stack product development</font></sub></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Python-0D0F12?style=for-the-badge&logo=python&logoColor=BE9455" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-0D0F12?style=for-the-badge&logo=javascript&logoColor=BE9455" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/React-0D0F12?style=for-the-badge&logo=react&logoColor=BE9455" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-0D0F12?style=for-the-badge&logo=nodedotjs&logoColor=BE9455" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-0D0F12?style=for-the-badge&logo=express&logoColor=BE9455" alt="Express" />
+    </td>
+  </tr>
+  <tr><td colspan="2" height="2" bgcolor="#373A3F"></td></tr>
+  <tr>
+    <td width="25%" valign="middle"><strong><font color="#F8F7F4">Cloud &amp; data</font></strong><br /><sub><font color="#D8D6D2">Infrastructure and persistence</font></sub></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/AWS-0D0F12?style=for-the-badge&logo=amazonaws&logoColor=BE9455" alt="AWS" />
+      <img src="https://img.shields.io/badge/AWS%20Lambda-0D0F12?style=for-the-badge&logo=awslambda&logoColor=BE9455" alt="AWS Lambda" />
+      <img src="https://img.shields.io/badge/DynamoDB-0D0F12?style=for-the-badge&logo=amazondynamodb&logoColor=BE9455" alt="DynamoDB" />
+      <img src="https://img.shields.io/badge/MongoDB-0D0F12?style=for-the-badge&logo=mongodb&logoColor=BE9455" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Git-0D0F12?style=for-the-badge&logo=git&logoColor=BE9455" alt="Git" />
+    </td>
   </tr>
 </table>
 
-<br />
+## Open source
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GunjanGrunge&show_icons=true&hide_border=true&bg_color=0D0F12&title_color=BE9455&icon_color=BE9455&text_color=D8D6D2" width="48%" alt="Gunjan's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunjanGrunge&layout=compact&hide_border=true&bg_color=0D0F12&title_color=BE9455&text_color=D8D6D2" width="40%" alt="Gunjan's top languages" />
+<table width="100%" cellpadding="16" bgcolor="#20262D">
+  <tr>
+    <td width="25%" valign="middle"><strong><font color="#F8F7F4">RRQ</font></strong><br /><sub><font color="#D8D6D2">Autonomous YouTube Production System</font></sub></td>
+    <td valign="middle">
+      <a href="https://github.com/GunjanGrunge/rrq"><img src="https://img.shields.io/badge/GitHub%20repository-0D0F12?style=flat-square&logo=github&logoColor=BE9455" alt="RRQ repository" /></a>
+      <a href="https://doi.org/10.5281/zenodo.19101568"><img src="https://img.shields.io/badge/Zenodo-Software-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="RRQ on Zenodo" /></a>
+    </td>
+  </tr>
+  <tr><td colspan="2" height="2" bgcolor="#373A3F"></td></tr>
+  <tr>
+    <td width="25%" valign="middle"><strong><font color="#F8F7F4">Asset Tracker Pro</font></strong><br /><sub><font color="#D8D6D2">Asset tracking and management</font></sub></td>
+    <td valign="middle">
+      <a href="https://github.com/GunjanGrunge/asset-tracker-pro"><img src="https://img.shields.io/badge/GitHub%20repository-0D0F12?style=flat-square&logo=github&logoColor=BE9455" alt="Asset Tracker Pro repository" /></a>
+      <a href="https://doi.org/10.5281/zenodo.19101563"><img src="https://img.shields.io/badge/Zenodo-Software-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="Asset Tracker Pro on Zenodo" /></a>
+    </td>
+  </tr>
+</table>
 
-  <br />
-  <br />
-
-  <sub>“Still learning with machines.”</sub>
-</div>
+<p align="center"><sub>“Still learning with machines.”</sub></p>
