@@ -48,7 +48,7 @@
 
 <table width="100%" cellpadding="18" bgcolor="#20262D">
   <tr>
-    <td width="22%" align="center" valign="middle"><a href="https://doi.org/10.5281/zenodo.19373822"><img src="https://cdn.simpleicons.org/zenodo/BE9455" alt="Zenodo" width="86" /></a></td>
+    <td width="22%" align="center" valign="middle"><a href="https://doi.org/10.5281/zenodo.19373822"><img src="assets/research/synthesis-layer-mark.png" alt="The Synthesis Layer mark" width="112" /></a></td>
     <td valign="middle">
       <strong><font color="#F8F7F4">The Synthesis Layer</font></strong><br /><br />
       <font color="#D8D6D2">Reducing Command Authority Bottleneck in Production Multi-Agent AI Systems</font><br /><br />
@@ -58,7 +58,7 @@
   </tr>
   <tr><td colspan="2" height="2" bgcolor="#373A3F"></td></tr>
   <tr>
-    <td width="22%" align="center" valign="middle"><a href="https://doi.org/10.5281/zenodo.19159244"><img src="https://cdn.simpleicons.org/zenodo/BE9455" alt="Zenodo" width="86" /></a></td>
+    <td width="22%" align="center" valign="middle"><a href="https://doi.org/10.5281/zenodo.19159244"><img src="assets/research/murphy-mark.png" alt="MURPHY mark" width="112" /></a></td>
     <td valign="middle">
       <strong><font color="#F8F7F4">MURPHY</font></strong><br /><br />
       <font color="#D8D6D2">Conversational Intent Surveillance with Arc-Based Trajectory Detection for Safe Multi-Agent AI Systems</font><br /><br />
