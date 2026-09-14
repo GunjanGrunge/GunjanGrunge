@@ -16,25 +16,23 @@
 
 ## Research
 
-<p align="center">
-  <a href="https://github.com/GunjanGrunge/SIA_package">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/sia-mark-white.svg" />
-      <img src="assets/sia-mark-black.svg" alt="SIA — Self-Improving Agents" width="88" />
-    </picture>
-  </a>
-</p>
-
-<h3>SIA — Self-Improving Agents</h3>
-
-<strong>A Portable, Host-Agnostic Instruction Framework for Self-Correcting AI Coding Assistants</strong><br /><br />
-A research preprint and validation report on project-adaptive agent instructions, evidence capture, scoped subagent collaboration, and procedural learning from real implementation feedback.<br /><br />
-
-<a href="research/SIA_Preprint_Gunjan_Sarkar_FULL.docx"><img src="https://img.shields.io/badge/Download%20the%20preprint-0D0F12?style=flat-square&logo=readthedocs&logoColor=BE9455" alt="Download the SIA research preprint" /></a>
-<a href="https://github.com/GunjanGrunge/SIA_package"><img src="https://img.shields.io/badge/Read%20the%20public%20SIA%20package-062B36?style=flat-square&logo=github&logoColor=white" alt="Read the public SIA package" /></a>
-<img src="https://img.shields.io/badge/Agent%20systems-0D0F12?style=flat-square&logo=openai&logoColor=BE9455" alt="Agent systems" />
-
-<p align="center"><sub>Download the package, place it in a project, and ask your coding assistant to read <code>sia/AGENT.md</code>.</sub></p>
+<table width="100%" cellpadding="18" bgcolor="#20262D">
+  <tr>
+    <td width="22%" align="center" valign="middle">
+      <a href="https://github.com/GunjanGrunge/SIA_package"><img src="assets/sia-mark-white.svg" alt="SIA — Self-Improving Agents" width="160" /></a>
+    </td>
+    <td valign="middle">
+      <strong><font color="#F8F7F4">SIA — Self-Improving Agents</font></strong><br /><br />
+      <strong><font color="#D8D6D2">A Portable, Host-Agnostic Instruction Framework for Self-Correcting AI Coding Assistants</font></strong><br /><br />
+      <font color="#F8F7F4">A research preprint and validation report on project-adaptive agent instructions, evidence capture, scoped subagent collaboration, and procedural learning from real implementation feedback.</font><br /><br />
+      <a href="research/SIA_Preprint_Gunjan_Sarkar_FULL.docx"><img src="https://img.shields.io/badge/Download%20the%20preprint-0D0F12?style=flat-square&logo=readthedocs&logoColor=BE9455" alt="Download the SIA research preprint" /></a>
+      <a href="https://github.com/GunjanGrunge/SIA_package"><img src="https://img.shields.io/badge/Read%20the%20public%20SIA%20package-062B36?style=flat-square&logo=github&logoColor=white" alt="Read the public SIA package" /></a>
+      <img src="https://img.shields.io/badge/Agent%20systems-0D0F12?style=flat-square&logo=openai&logoColor=BE9455" alt="Agent systems" />
+      <br /><br />
+      <sub><font color="#D8D6D2">Download the package, place it in a project, and ask your coding assistant to read <code>sia/AGENT.md</code>.</font></sub>
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary><strong>Research focus</strong></summary>
