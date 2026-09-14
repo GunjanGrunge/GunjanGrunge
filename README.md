@@ -16,9 +16,9 @@
 
 ## Research
 
-<a href="https://github.com/GunjanGrunge/SIA_package">
-  <img src="assets/sia-research-banner.png" alt="SIA — Self-Improving Agents Architecture" width="100%" />
-</a>
+<p align="center">
+  <a href="https://github.com/GunjanGrunge/SIA_package"><img src="assets/sia-logo-horizontal.png" alt="SIA — Self-Improving Agents" width="280" /></a>
+</p>
 
 <h3>SIA — Self-Improving Agents</h3>
 
