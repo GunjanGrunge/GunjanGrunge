@@ -77,7 +77,7 @@
   </tr>
   <tr><td colspan="2" height="2" bgcolor="#373A3F"></td></tr>
   <tr>
-    <td width="22%" align="center" valign="middle"><a href="https://doi.org/10.5281/zenodo.19101583"><img src="https://cdn.simpleicons.org/zenodo/BE9455" alt="Zenodo" width="86" /></a></td>
+    <td width="22%" align="center" valign="middle"><a href="https://doi.org/10.5281/zenodo.19101583"><img src="assets/research/ilp-mark.png" alt="ILP mark" width="112" /></a></td>
     <td valign="middle">
       <strong><font color="#F8F7F4">ILP</font></strong><br /><br />
       <font color="#D8D6D2">Instruction Layer Protocol for Multi-Agent AI Systems</font><br /><br />
