@@ -48,58 +48,41 @@
 
 <table width="100%" cellpadding="18" bgcolor="#20262D">
   <tr>
-    <td width="22%" align="center" valign="middle">
-      <a href="https://doi.org/10.5281/zenodo.19373822"><img src="https://cdn.simpleicons.org/zenodo/BE9455" alt="Zenodo" width="86" /></a>
-    </td>
+    <td width="22%" align="center" valign="middle"><a href="https://doi.org/10.5281/zenodo.19373822"><img src="https://cdn.simpleicons.org/zenodo/BE9455" alt="Zenodo" width="86" /></a></td>
     <td valign="middle">
       <strong><font color="#F8F7F4">The Synthesis Layer</font></strong><br /><br />
       <font color="#D8D6D2">Reducing Command Authority Bottleneck in Production Multi-Agent AI Systems</font><br /><br />
       <a href="https://doi.org/10.5281/zenodo.19373822"><img src="https://img.shields.io/badge/Read%20on%20Zenodo-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="The Synthesis Layer on Zenodo" /></a>
+      <a href="https://github.com/GunjanGrunge/rrq"><img src="https://img.shields.io/badge/GitHub%20repository-0D0F12?style=flat-square&logo=github&logoColor=BE9455" alt="The Synthesis Layer implementation in RRQ" /></a>
     </td>
   </tr>
-</table>
-
-<br />
-
-<table width="100%" cellpadding="18" bgcolor="#20262D">
+  <tr><td colspan="2" height="2" bgcolor="#373A3F"></td></tr>
   <tr>
-    <td width="22%" align="center" valign="middle">
-      <a href="https://doi.org/10.5281/zenodo.19159244"><img src="https://cdn.simpleicons.org/zenodo/BE9455" alt="Zenodo" width="86" /></a>
-    </td>
+    <td width="22%" align="center" valign="middle"><a href="https://doi.org/10.5281/zenodo.19159244"><img src="https://cdn.simpleicons.org/zenodo/BE9455" alt="Zenodo" width="86" /></a></td>
     <td valign="middle">
       <strong><font color="#F8F7F4">MURPHY</font></strong><br /><br />
       <font color="#D8D6D2">Conversational Intent Surveillance with Arc-Based Trajectory Detection for Safe Multi-Agent AI Systems</font><br /><br />
       <a href="https://doi.org/10.5281/zenodo.19159244"><img src="https://img.shields.io/badge/Read%20on%20Zenodo-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="MURPHY on Zenodo" /></a>
+      <a href="https://github.com/GunjanGrunge/rrq"><img src="https://img.shields.io/badge/GitHub%20repository-0D0F12?style=flat-square&logo=github&logoColor=BE9455" alt="MURPHY implementation in RRQ" /></a>
     </td>
   </tr>
-</table>
-
-<br />
-
-<table width="100%" cellpadding="18" bgcolor="#20262D">
+  <tr><td colspan="2" height="2" bgcolor="#373A3F"></td></tr>
   <tr>
-    <td width="22%" align="center" valign="middle">
-      <a href="https://doi.org/10.5281/zenodo.19116770"><img src="https://cdn.simpleicons.org/zenodo/BE9455" alt="Zenodo" width="86" /></a>
-    </td>
+    <td width="22%" align="center" valign="middle"><a href="https://doi.org/10.5281/zenodo.19116770"><img src="https://cdn.simpleicons.org/zenodo/BE9455" alt="Zenodo" width="86" /></a></td>
     <td valign="middle">
       <strong><font color="#F8F7F4">SAGE</font></strong><br /><br />
       <font color="#D8D6D2">Self-Adapting Governance Engine for Multi-Agent AI Systems</font><br /><br />
       <a href="https://doi.org/10.5281/zenodo.19116770"><img src="https://img.shields.io/badge/Read%20on%20Zenodo-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="SAGE on Zenodo" /></a>
     </td>
   </tr>
-</table>
-
-<br />
-
-<table width="100%" cellpadding="18" bgcolor="#20262D">
+  <tr><td colspan="2" height="2" bgcolor="#373A3F"></td></tr>
   <tr>
-    <td width="22%" align="center" valign="middle">
-      <a href="https://doi.org/10.5281/zenodo.19101583"><img src="https://cdn.simpleicons.org/zenodo/BE9455" alt="Zenodo" width="86" /></a>
-    </td>
+    <td width="22%" align="center" valign="middle"><a href="https://doi.org/10.5281/zenodo.19101583"><img src="https://cdn.simpleicons.org/zenodo/BE9455" alt="Zenodo" width="86" /></a></td>
     <td valign="middle">
       <strong><font color="#F8F7F4">ILP</font></strong><br /><br />
       <font color="#D8D6D2">Instruction Layer Protocol for Multi-Agent AI Systems</font><br /><br />
       <a href="https://doi.org/10.5281/zenodo.19101583"><img src="https://img.shields.io/badge/Read%20on%20Zenodo-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="ILP on Zenodo" /></a>
+      <a href="https://github.com/GunjanGrunge/ilp-spec"><img src="https://img.shields.io/badge/GitHub%20repository-0D0F12?style=flat-square&logo=github&logoColor=BE9455" alt="ILP source repository" /></a>
     </td>
   </tr>
 </table>
