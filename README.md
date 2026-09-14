@@ -16,21 +16,18 @@
 
 ## Research
 
-<table>
-  <tr>
-    <td width="116" align="center" valign="middle">
-      <a href="https://github.com/GunjanGrunge/SIA_package"><img src="assets/sia-mark-cyan.png" alt="SIA mark" width="92" /></a>
-    </td>
-    <td valign="middle">
-      <h3>SIA — Self-Improving Agents</h3>
-      <strong>A Portable, Host-Agnostic Instruction Framework for Self-Correcting AI Coding Assistants</strong><br /><br />
-      A research preprint and validation report on project-adaptive agent instructions, evidence capture, scoped subagent collaboration, and procedural learning from real implementation feedback.<br /><br />
-      <a href="research/SIA_Preprint_Gunjan_Sarkar_FULL.docx"><img src="https://img.shields.io/badge/Download%20the%20preprint-0D0F12?style=flat-square&logo=readthedocs&logoColor=BE9455" alt="Download the SIA research preprint" /></a>
-      <a href="https://github.com/GunjanGrunge/SIA_package"><img src="https://img.shields.io/badge/Read%20the%20public%20SIA%20package-062B36?style=flat-square&logo=github&logoColor=white" alt="Read the public SIA package" /></a>
-      <img src="https://img.shields.io/badge/Agent%20systems-0D0F12?style=flat-square&logo=openai&logoColor=BE9455" alt="Agent systems" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/GunjanGrunge/SIA_package">
+  <img src="assets/sia-research-banner.png" alt="SIA — Self-Improving Agents Architecture" width="100%" />
+</a>
+
+<h3>SIA — Self-Improving Agents</h3>
+
+<strong>A Portable, Host-Agnostic Instruction Framework for Self-Correcting AI Coding Assistants</strong><br /><br />
+A research preprint and validation report on project-adaptive agent instructions, evidence capture, scoped subagent collaboration, and procedural learning from real implementation feedback.<br /><br />
+
+<a href="research/SIA_Preprint_Gunjan_Sarkar_FULL.docx"><img src="https://img.shields.io/badge/Download%20the%20preprint-0D0F12?style=flat-square&logo=readthedocs&logoColor=BE9455" alt="Download the SIA research preprint" /></a>
+<a href="https://github.com/GunjanGrunge/SIA_package"><img src="https://img.shields.io/badge/Read%20the%20public%20SIA%20package-062B36?style=flat-square&logo=github&logoColor=white" alt="Read the public SIA package" /></a>
+<img src="https://img.shields.io/badge/Agent%20systems-0D0F12?style=flat-square&logo=openai&logoColor=BE9455" alt="Agent systems" />
 
 <p align="center"><sub>Download the package, place it in a project, and ask your coding assistant to read <code>sia/AGENT.md</code>.</sub></p>
 
@@ -46,12 +43,14 @@
 
 ## Selected publications
 
+<p><sub>Research archived on Zenodo · open materials and implementation records where available.</sub></p>
+
 | Work | Publication |
 | --- | --- |
-| **The Synthesis Layer** — Reducing Command Authority Bottleneck in Production Multi-Agent AI Systems | [Zenodo preprint](https://doi.org/10.5281/zenodo.19373822) |
-| **MURPHY** — Conversational Intent Surveillance with Arc-Based Trajectory Detection for Safe Multi-Agent AI Systems | [Zenodo preprint](https://doi.org/10.5281/zenodo.19159244) |
-| **SAGE** — Self-Adapting Governance Engine for Multi-Agent AI Systems | [Zenodo preprint](https://doi.org/10.5281/zenodo.19116770) |
-| **ILP** — Instruction Layer Protocol for Multi-Agent AI Systems | [Zenodo preprint](https://doi.org/10.5281/zenodo.19101583) |
+| **The Synthesis Layer**<br /><sub>Reducing Command Authority Bottleneck in Production Multi-Agent AI Systems</sub> | <a href="https://doi.org/10.5281/zenodo.19373822"><img src="https://img.shields.io/badge/Zenodo-Preprint-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="The Synthesis Layer on Zenodo" /></a> |
+| **MURPHY**<br /><sub>Conversational Intent Surveillance with Arc-Based Trajectory Detection for Safe Multi-Agent AI Systems</sub> | <a href="https://doi.org/10.5281/zenodo.19159244"><img src="https://img.shields.io/badge/Zenodo-Preprint-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="MURPHY on Zenodo" /></a> |
+| **SAGE**<br /><sub>Self-Adapting Governance Engine for Multi-Agent AI Systems</sub> | <a href="https://doi.org/10.5281/zenodo.19116770"><img src="https://img.shields.io/badge/Zenodo-Preprint-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="SAGE on Zenodo" /></a> |
+| **ILP**<br /><sub>Instruction Layer Protocol for Multi-Agent AI Systems</sub> | <a href="https://doi.org/10.5281/zenodo.19101583"><img src="https://img.shields.io/badge/Zenodo-Preprint-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="ILP on Zenodo" /></a> |
 
 ## Building with
 
