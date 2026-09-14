@@ -68,7 +68,7 @@
   </tr>
   <tr><td colspan="2" height="2" bgcolor="#373A3F"></td></tr>
   <tr>
-    <td width="22%" align="center" valign="middle"><a href="https://doi.org/10.5281/zenodo.19116770"><img src="https://cdn.simpleicons.org/zenodo/BE9455" alt="Zenodo" width="86" /></a></td>
+    <td width="22%" align="center" valign="middle"><a href="https://doi.org/10.5281/zenodo.19116770"><img src="assets/research/sage-mark.png" alt="SAGE mark" width="112" /></a></td>
     <td valign="middle">
       <strong><font color="#F8F7F4">SAGE</font></strong><br /><br />
       <font color="#D8D6D2">Self-Adapting Governance Engine for Multi-Agent AI Systems</font><br /><br />
