@@ -46,14 +46,36 @@
 
 ## Selected publications
 
-<p><sub>Research archived on Zenodo · open materials and implementation records where available.</sub></p>
-
-| Work | Publication |
-| --- | --- |
-| **The Synthesis Layer**<br /><sub>Reducing Command Authority Bottleneck in Production Multi-Agent AI Systems</sub> | <a href="https://doi.org/10.5281/zenodo.19373822"><img src="https://img.shields.io/badge/Zenodo-Preprint-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="The Synthesis Layer on Zenodo" /></a> |
-| **MURPHY**<br /><sub>Conversational Intent Surveillance with Arc-Based Trajectory Detection for Safe Multi-Agent AI Systems</sub> | <a href="https://doi.org/10.5281/zenodo.19159244"><img src="https://img.shields.io/badge/Zenodo-Preprint-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="MURPHY on Zenodo" /></a> |
-| **SAGE**<br /><sub>Self-Adapting Governance Engine for Multi-Agent AI Systems</sub> | <a href="https://doi.org/10.5281/zenodo.19116770"><img src="https://img.shields.io/badge/Zenodo-Preprint-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="SAGE on Zenodo" /></a> |
-| **ILP**<br /><sub>Instruction Layer Protocol for Multi-Agent AI Systems</sub> | <a href="https://doi.org/10.5281/zenodo.19101583"><img src="https://img.shields.io/badge/Zenodo-Preprint-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="ILP on Zenodo" /></a> |
+<table width="100%" cellpadding="14" bgcolor="#20262D">
+  <tr>
+    <td valign="middle">
+      <strong><font color="#F8F7F4">The Synthesis Layer</font></strong><br />
+      <sub><font color="#D8D6D2">Reducing Command Authority Bottleneck in Production Multi-Agent AI Systems</font></sub>
+    </td>
+    <td width="124" align="right" valign="middle"><a href="https://doi.org/10.5281/zenodo.19373822"><img src="https://img.shields.io/badge/Zenodo-Preprint-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="The Synthesis Layer on Zenodo" /></a></td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <strong><font color="#F8F7F4">MURPHY</font></strong><br />
+      <sub><font color="#D8D6D2">Conversational Intent Surveillance with Arc-Based Trajectory Detection for Safe Multi-Agent AI Systems</font></sub>
+    </td>
+    <td width="124" align="right" valign="middle"><a href="https://doi.org/10.5281/zenodo.19159244"><img src="https://img.shields.io/badge/Zenodo-Preprint-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="MURPHY on Zenodo" /></a></td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <strong><font color="#F8F7F4">SAGE</font></strong><br />
+      <sub><font color="#D8D6D2">Self-Adapting Governance Engine for Multi-Agent AI Systems</font></sub>
+    </td>
+    <td width="124" align="right" valign="middle"><a href="https://doi.org/10.5281/zenodo.19116770"><img src="https://img.shields.io/badge/Zenodo-Preprint-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="SAGE on Zenodo" /></a></td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <strong><font color="#F8F7F4">ILP</font></strong><br />
+      <sub><font color="#D8D6D2">Instruction Layer Protocol for Multi-Agent AI Systems</font></sub>
+    </td>
+    <td width="124" align="right" valign="middle"><a href="https://doi.org/10.5281/zenodo.19101583"><img src="https://img.shields.io/badge/Zenodo-Preprint-BE9455?style=flat-square&logo=zenodo&logoColor=0D0F12" alt="ILP on Zenodo" /></a></td>
+  </tr>
+</table>
 
 ## Building with
 
