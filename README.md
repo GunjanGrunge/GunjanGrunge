@@ -6,7 +6,7 @@
 
   <a href="https://www.linkedin.com/in/gunjansarkar/"><img src="https://img.shields.io/badge/LinkedIn-0D0F12?style=for-the-badge&logo=linkedin&logoColor=BE9455" alt="LinkedIn" /></a>
   <a href="https://orcid.org/0009-0009-0243-4527"><img src="https://img.shields.io/badge/ORCID-0D0F12?style=for-the-badge&logo=orcid&logoColor=BE9455" alt="ORCID" /></a>
-  <a href="https://gunjangrunge.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-0D0F12?style=for-the-badge&logo=githubpages&logoColor=BE9455" alt="Portfolio" /></a>
+  <a href="https://www.gunjansarkar.com/"><img src="https://img.shields.io/badge/Portfolio-0D0F12?style=for-the-badge&logo=githubpages&logoColor=BE9455" alt="Portfolio" /></a>
   <a href="https://www.instagram.com/gunjangrunge/"><img src="https://img.shields.io/badge/Instagram-0D0F12?style=for-the-badge&logo=instagram&logoColor=BE9455" alt="Instagram" /></a>
 </div>
 
