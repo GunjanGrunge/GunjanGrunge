@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <g fill="#FFFFFF">
+    <!-- Primary Orbital Ring (45 deg tilt) -->
+    <path d="M 250 60 C 360 100, 440 200, 410 310 C 380 420, 260 460, 150 410 C 80 375, 45 300, 65 220 L 102 235 C 85 295, 115 355, 170 380 C 260 420, 355 385, 378 300 C 400 215, 335 130, 240 100 Z"/>
+    <!-- Counter Orbital Ring (-45 deg tilt) -->
+    <path d="M 250 60 C 140 100, 60 200, 90 310 C 120 420, 240 460, 350 410 C 420 375, 455 300, 435 220 L 398 235 C 415 295, 385 355, 330 380 C 240 420, 145 385, 122 300 C 100 215, 165 130, 260 100 Z"/>
+    <!-- Central Kinetic Governance Core -->
+    <circle cx="250" cy="250" r="38"/>
+    <!-- Polar axis dots -->
+    <circle cx="250" cy="78" r="9"/>
+    <circle cx="250" cy="422" r="9"/>
+  </g>
+</svg>
